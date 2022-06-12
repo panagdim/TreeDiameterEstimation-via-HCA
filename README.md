@@ -6,7 +6,7 @@ Estimate simultaneously the diameters of a large number of tree cross-sections (
 
 This project contains two files. 
 - The first file (Circle Fit) contains the function: For this example I used the Val Schmidt circle fit method (source: https://www.mathworks.com/matlabcentral/fileexchange/36361-circle_fit). 
-You can use any other circle fit method, all you have to do is to call it properly in the second file
+You can use any other circle fit method, all you have to do is to call it properly in the second file.
 
 - The second file (HCA) contains the main script.
 
